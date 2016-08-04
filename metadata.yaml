@@ -1,0 +1,25 @@
+_repo: The-Window-Gazer_4284
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackay, Isabel Ecclestone
+    birthdate: 1875
+    deathdate: 1928
+    gutenberg_agent_id: '1429'
+    url: http://www.gutenberg.org/2009/agents/1429
+    wikipedia: http://www.lib.uwaterloo.ca/discipline/SpecColl/archives/mackay.html
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Window-Gazer
+url: http://www.gutenberg.org/ebooks/4284
